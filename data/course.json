@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "4193918c-d39b-b766-de5e-b340cc21db9d",
+  "instructors": {
+    "content": [
+      "494bb006-f78f-88aa-d3b3-e60a0fdbffe7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ce75f78d-aa41-2259-946b-da656816f01e",
+    "website": "res-18-006-calculus-revisited-single-variable-calculus-fall-2010"
+  },
+  "course_title": "Calculus Revisited: Single Variable Calculus",
+  "course_description": "Calculus Revisited is a series of videos and related resources that covers the materials normally found in a freshman-level introductory calculus course. The series was first released in 1970 as a way for people to review the essentials of calculus. It is equally valuable for students who are learning calculus for the first time.\n\nAbout the Instructor\n\nHerb Gross has taught math as senior lecturer at MIT and was the founding math department chair at Bunker Hill Community College. He is the developer of the [Mathematics As A Second Language](http://www.mathasasecondlanguage.org/) website, providing arithmetic and algebra materials to elementary and middle school teachers.\n\nAcknowledgements\n\nFunding for this resource was provided by the [Gabriella and Paul Rosenbaum Foundation](http://www.rosenbaum-foundation.org/).\n\n### Other Resources by Herb Gross\n\n[Calculus Revisited: Multivariable Calculus](/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/)\n\n[Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra](/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/)",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.18-006",
+  "course_image_thumbnail": {
+    "content": "ff21ddfa-ee33-ffd8-2304-8a00f5734007",
+    "website": "res-18-006-calculus-revisited-single-variable-calculus-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "ab95e822-41a6-42a5-94f8-07d7f8ef4add",
+  "site_short_id": "res.18-fall-2010",
+  "title": "Course Metadata"
+}
